@@ -8,3 +8,5 @@ choropleth map
 graduated symbol map
 cartogram
 dendrogram
+adjacency diagram
+sunburst layout
