@@ -1,3 +1,7 @@
 visual encoding
 stacked graph
 small multiples
+horizon graph
+data density
+flow map
+choropleth map
