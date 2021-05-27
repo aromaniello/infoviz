@@ -13,3 +13,4 @@ sunburst layout
 enclosure diagram
 circle-packing layout
 force-directed layout
+arc diagram
