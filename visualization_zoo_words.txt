@@ -7,3 +7,4 @@ flow map
 choropleth map
 graduated symbol map
 cartogram
+dendrogram
