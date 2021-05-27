@@ -10,3 +10,6 @@ cartogram
 dendrogram
 adjacency diagram
 sunburst layout
+enclosure diagram
+circle-packing layout
+force-directed layout
